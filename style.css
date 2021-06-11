@@ -81,6 +81,9 @@ body {
 .avengers-image{
   flex:10%;
 }
+  .avengers-image {
+  height: 70vh;
+}
 .logo{
   width: 20px;
   height: 20px;
@@ -105,5 +108,8 @@ body {
 }
 .avengers-image.active{
   flex: 50%;
+}
+  .avengers-image {
+  height: 60vh;
 }
 }
